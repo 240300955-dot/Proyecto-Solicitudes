@@ -10,9 +10,9 @@ La extracción es una **simulación declarada**: los datos de C01, C02 y C03 est
 
 ## Rutas configurables
 En los flujos de PAD las rutas están en variables al inicio, para cambiarlas sin tocar el resto:
-- `RutaIndividual`: archivo de resultado del ensayo individual (debe ser un nombre nuevo).
+- `RutaIndividual`: archivo de resultado del ensayo individual.
 - `RutaCsv`: ruta a `datos/solicitudes_base.csv`.
-- `RutaResultados`: archivo de resultados del lote (también debe ser nuevo).
+- `RutaResultados`: archivo de resultados del lote.
 
 En `extraccion_fase1.py`, la variable `ruta_csv` indica dónde se escribe el CSV. Hay que adaptarla a cada equipo.
 
