@@ -1,0 +1,9 @@
+﻿caso=P1 | id=SOL-701 | estado=RECHAZADA_DATOS
+caso=P1 | id=SOL-701 | estado=RESPUESTA_NO_ESPERADA
+caso=P1 | id=SOL-702 | estado=RESPUESTA_NO_ESPERADA
+caso=P2 | id=SOL-701 | estado=YA_EXISTENTE
+caso=P2 | id=SOL-702 | estado=NUEVA_PENDIENTE
+caso=P3A | id=SOL-703| estado=PENDIENTE_VERIFICACION
+caso=P3A | id=SOL-704| estado=REGISTRADA_VERIFICADA
+caso=P3B | id=NO_APLICA | estado=VENTANA_LOCALIZADA
+caso=P3B | id=NO_APLICA | estado=FALLO_TECNICO

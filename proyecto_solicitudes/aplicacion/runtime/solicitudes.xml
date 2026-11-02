@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<ArrayOfSolicitud xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Solicitud>
+    <Id>SOL-900</Id>
+    <Solicitante>Persona ficticia Ana</Solicitante>
+    <Area>Administración</Area>
+    <Tipo>Equipo</Tipo>
+    <Descripcion>Revisar pantalla del equipo de práctica.</Descripcion>
+    <Folio>FOL-0001</Folio>
+    <FechaUtc>2026-10-11T08:02:09.0686856Z</FechaUtc>
+  </Solicitud>
+  <Solicitud>
+    <Id>SOL-500</Id>
+    <Solicitante>Persona ficticia Ana</Solicitante>
+    <Area>Administración</Area>
+    <Tipo>Equipo</Tipo>
+    <Descripcion>Revisar pantalla del equipo de práctica.</Descripcion>
+    <Folio>FOL-0002</Folio>
+    <FechaUtc>2026-10-11T08:22:47.8835996Z</FechaUtc>
+  </Solicitud>
+  <Solicitud>
+    <Id>SOL-001</Id>
+    <Solicitante>Persona ficticia Alba</Solicitante>
+    <Area>Administración</Area>
+    <Tipo>Equipo</Tipo>
+    <Descripcion>Revisar pantalla del equipo de práctica.</Descripcion>
+    <Folio>FOL-0003</Folio>
+    <FechaUtc>2026-10-11T22:55:39.9871795Z</FechaUtc>
+  </Solicitud>
+  <Solicitud>
+    <Id>SOL-002</Id>
+    <Solicitante>Persona ficticia Bruno</Solicitante>
+    <Area>Docencia</Area>
+    <Tipo>Acceso</Tipo>
+    <Descripcion>Habilitar acceso al laboratorio simulado.</Descripcion>
+    <Folio>FOL-0004</Folio>
+    <FechaUtc>2026-10-11T22:55:54.9509512Z</FechaUtc>
+  </Solicitud>
+  <Solicitud>
+    <Id>SOL-003</Id>
+    <Solicitante>Persona ficticia Celia</Solicitante>
+    <Area>Biblioteca</Area>
+    <Tipo>Mantenimiento</Tipo>
+    <Descripcion>Revisar iluminación de sala ficticia.</Descripcion>
+    <Folio>FOL-0005</Folio>
+    <FechaUtc>2026-10-11T22:56:09.5532173Z</FechaUtc>
+  </Solicitud>
+  <Solicitud>
+    <Id>SOL-701</Id>
+    <Solicitante>Ana</Solicitante>
+    <Area>Administración</Area>
+    <Tipo>Equipo</Tipo>
+    <Descripcion>Revisar pantalla del equipo de práctica.</Descripcion>
+    <Folio>FOL-0006</Folio>
+    <FechaUtc>2026-10-13T22:07:17.4454990Z</FechaUtc>
+  </Solicitud>
+  <Solicitud>
+    <Id>SOL-705</Id>
+    <Solicitante>Ana</Solicitante>
+    <Area>Administración</Area>
+    <Tipo>Equipo</Tipo>
+    <Descripcion>Revisar pantalla del equipo de práctica.</Descripcion>
+    <Folio>FOL-0007</Folio>
+    <FechaUtc>2026-10-13T22:52:10.8270425Z</FechaUtc>
+  </Solicitud>
+  <Solicitud>
+    <Id>SOL-703</Id>
+    <Solicitante>Ana</Solicitante>
+    <Area>Administración</Area>
+    <Tipo>Equipo</Tipo>
+    <Descripcion>Revisar pantalla del equipo de práctica.</Descripcion>
+    <Folio>FOL-0008</Folio>
+    <FechaUtc>2026-10-13T23:00:51.2201804Z</FechaUtc>
+  </Solicitud>
+  <Solicitud>
+    <Id>SOL-704</Id>
+    <Solicitante>Ana</Solicitante>
+    <Area>Administración</Area>
+    <Tipo>Equipo</Tipo>
+    <Descripcion>Revisar pantalla del equipo de práctica.</Descripcion>
+    <Folio>FOL-0009</Folio>
+    <FechaUtc>2026-10-13T23:05:55.6440927Z</FechaUtc>
+  </Solicitud>
+  <Solicitud>
+    <Id>SOL-999</Id>
+    <Solicitante>Persona ficticia Alba</Solicitante>
+    <Area>Administración</Area>
+    <Tipo>Equipo</Tipo>
+    <Descripcion>Revisar la pantalla del equipo de práctica.</Descripcion>
+    <Folio>FOL-0010</Folio>
+    <FechaUtc>2026-10-22T21:16:09.3558093Z</FechaUtc>
+  </Solicitud>
+</ArrayOfSolicitud>

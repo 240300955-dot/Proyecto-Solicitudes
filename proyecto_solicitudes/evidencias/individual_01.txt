@@ -1,0 +1,3 @@
+﻿Solicitud: SOL-500
+Folio: FOL-0002
+Estado: REGISTRADA
