@@ -3,12 +3,6 @@
 ## Integrantes
 - Derek Monter
 
-## Herramientas y versiones
-- Power Automate Desktop: [COMPLETAR versión]
-- Windows: [COMPLETAR versión]
-- Python: [COMPLETAR versión], solo con las bibliotecas estándar `csv` y `os`
-- Aplicación Solicitudes RPA, escenario Base
-
 ## Qué hace
 Un script de Python separa las solicitudes completas de las pendientes y exporta solo las aprobadas a `datos/solicitudes_base.csv`. Después, un flujo de PAD lee ese CSV y, por cada fila, captura los cinco campos en el formulario, confirma el registro, lee el folio real de la interfaz y guarda en una bitácora el identificador, el folio y el estado.
 
