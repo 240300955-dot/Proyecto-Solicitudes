@@ -1,6 +1,5 @@
 # Proyecto de registro automatizado de solicitudes
 
-## Integrantes
 - Derek Monter
 
 ## Qué hace
